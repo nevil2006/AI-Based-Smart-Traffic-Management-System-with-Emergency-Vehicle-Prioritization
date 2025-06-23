@@ -1,7 +1,7 @@
 # AI-Based-Smart-Traffic-Management-System-with-Emergency-Vehicle-Prioritization
 
 
-#Problem Statement
+Problem Statement
 Current traffic signal systems operate on fixed time intervals without adapting to real-time traffic conditions. They:
 
 Cause unnecessary delays for road users during low traffic periods.
@@ -10,7 +10,7 @@ Fail to prioritize emergency vehicles like ambulances and fire trucks, leading t
 
 This lack of dynamic control leads to inefficient traffic flow, long wait times, and life-threatening delays for emergency services.
 
-#Proposed AI Solution
+Proposed AI Solution
 We designed an AI-based traffic management system that:
 
 Uses YOLO (You Only Look Once) object detection to analyze live traffic footage.
@@ -21,7 +21,7 @@ Detects emergency vehicles (ambulances, fire engines) and overrides normal signa
 
 Integrates IoT devices (ESP32-CAM and radar modules) to monitor proximity and verify the movement of emergency vehicles.
 
-#Technology Stack
+Technology Stack
 Computer Vision: YOLOv8, OpenCV
 
 Hardware: ESP32-CAM, BeagleBone Black

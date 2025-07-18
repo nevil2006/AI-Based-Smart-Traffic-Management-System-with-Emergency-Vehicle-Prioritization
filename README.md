@@ -1,8 +1,8 @@
-# 🚦 AI-Based Smart Traffic Management System with Emergency Vehicle Prioritization
+# AI-Based Smart Traffic Management System with Emergency Vehicle Prioritization
 
 ---
 
-## 🧠 **Problem Statement**
+##  **Problem Statement**
 
 Current traffic signal systems operate on fixed time intervals without adapting to real-time traffic conditions. They:
 
@@ -13,7 +13,7 @@ This lack of dynamic control leads to **inefficient traffic flow**, **long wait 
 
 ---
 
-## 💡 **Proposed AI Solution**
+##  **Proposed AI Solution**
 
 We designed an AI-based traffic management system that:
 
@@ -24,7 +24,7 @@ We designed an AI-based traffic management system that:
 
 ---
 
-## ⚙️ **Technology Stack**
+##  **Technology Stack**
 
 - **Computer Vision**: YOLOv8, OpenCV  
 - **Hardware**: ESP32-CAM, BeagleBone Black  
@@ -34,27 +34,27 @@ We designed an AI-based traffic management system that:
 
 ---
 
-## 🏆 **Achievements**
+##  **Achievements**
 
-- 🥇 **First Prize in IDEATHON and PROJECT EXPO** at **SNS College of Technology**
-- ✅ **Proof of Concept Approved** by the **Commissioner of Police, Coimbatore**
-- ✅ **Selected by MSME Innovation Cell** for **Pilot Testing**
+-  **First Prize in IDEATHON and PROJECT EXPO** at **SNS College of Technology**
+-  **Proof of Concept Approved** by the **Commissioner of Police, Coimbatore**
+-  **Selected by MSME Innovation Cell** for **Pilot Testing**
 
 ---
 
-## 📈 **Project Timeline & Milestones**
+## **Project Timeline & Milestones**
 
 | Stage              | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| ❌ SIH Rejection    | Initially submitted to Smart India Hackathon but rejected due to political reasons |
-| ✅ Real-World Data  | Acquired rear-view footage → trained model → lacked emergency vehicle clarity |
-| ✅ Front View Footage | Reached out again → received proper footage from police → retrained YOLO model |
-| ✅ IoT Integration  | Used 2 ESP32-CAM modules and Free-Fi meters near signals to detect & prioritize emergency vehicles |
-| 🚀 Pilot Testing    | Currently under real-environment pilot testing in partnership with local authorities |
+| SIH Rejection    | Initially submitted to Smart India Hackathon but rejected due to political reasons |
+|  Real-World Data  | Acquired rear-view footage → trained model → lacked emergency vehicle clarity |
+|  Front View Footage | Reached out again → received proper footage from police → retrained YOLO model |
+|  IoT Integration  | Used 2 ESP32-CAM modules and Free-Fi meters near signals to detect & prioritize emergency vehicles |
+|  Pilot Testing    | Currently under real-environment pilot testing in partnership with local authorities |
 
 ---
 
-## 🎯 **Impact**
+##  **Impact**
 
 This system:
 

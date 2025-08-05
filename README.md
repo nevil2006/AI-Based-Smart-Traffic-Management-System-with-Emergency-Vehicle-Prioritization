@@ -33,6 +33,7 @@ We designed an AI-based traffic management system that:
 - **Data**: Real footage from Coimbatore city under various weather and lighting conditions
 
 ---
+output video not disclosed due secuirty reasons so i have only uploaded a image
 ![Dashboard Preview](image.png)
 
 

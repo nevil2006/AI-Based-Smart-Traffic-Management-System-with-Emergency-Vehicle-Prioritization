@@ -51,7 +51,7 @@ We designed an AI-based traffic management system that:
 
 | Stage              | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| SIH Rejection    | Initially submitted to Smart India Hackathon but rejected due to political reasons |
+| SIH Rejection    | Initially submitted to Smart India Hackathon but rejected |
 |  Real-World Data  | Acquired rear-view footage → trained model → lacked emergency vehicle clarity |
 |  Front View Footage | Reached out again → received proper footage from police → retrained YOLO model |
 |  IoT Integration  | Used 2 ESP32-CAM modules and Free-Fi meters near signals to detect & prioritize emergency vehicles |
